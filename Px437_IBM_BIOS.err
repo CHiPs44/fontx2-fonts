@@ -1,0 +1,307 @@
+FreeType: 14 x 17, type: 1, sjis 0
+no ENDCHAR at 0 (0x0)
+2 (0x2)
+no ENDCHAR at 3 (0x3)
+Table 0 0002 -> 0003
+5 (0x5)
+6 (0x6)
+no ENDCHAR at 7 (0x7)
+Table 1 0005 -> 0007
+no ENDCHAR at 9 (0x9)
+Table 2 0009 -> 0009
+11 (0xb)
+12 (0xc)
+13 (0xd)
+14 (0xe)
+15 (0xf)
+no ENDCHAR at 16 (0x10)
+Table 3 000b -> 0010
+18 (0x12)
+no ENDCHAR at 19 (0x13)
+Table 4 0012 -> 0013
+21 (0x15)
+no ENDCHAR at 22 (0x16)
+Table 5 0015 -> 0016
+no ENDCHAR at 24 (0x18)
+Table 6 0018 -> 0018
+no ENDCHAR at 26 (0x1a)
+Table 7 001a -> 001a
+no ENDCHAR at 28 (0x1c)
+Table 8 001c -> 001c
+no ENDCHAR at 30 (0x1e)
+Table 9 001e -> 001e
+no ENDCHAR at 32 (0x20)
+Table 10 0020 -> 0020
+no ENDCHAR at 34 (0x22)
+Table 11 0022 -> 0022
+no ENDCHAR at 36 (0x24)
+Table 12 0024 -> 0024
+no ENDCHAR at 38 (0x26)
+Table 13 0026 -> 0026
+no ENDCHAR at 40 (0x28)
+Table 14 0028 -> 0028
+no ENDCHAR at 42 (0x2a)
+Table 15 002a -> 002a
+no ENDCHAR at 44 (0x2c)
+Table 16 002c -> 002c
+no ENDCHAR at 46 (0x2e)
+Table 17 002e -> 002e
+no ENDCHAR at 48 (0x30)
+Table 18 0030 -> 0030
+no ENDCHAR at 50 (0x32)
+Table 19 0032 -> 0032
+no ENDCHAR at 52 (0x34)
+Table 20 0034 -> 0034
+no ENDCHAR at 54 (0x36)
+Table 21 0036 -> 0036
+no ENDCHAR at 56 (0x38)
+Table 22 0038 -> 0038
+no ENDCHAR at 58 (0x3a)
+Table 23 003a -> 003a
+no ENDCHAR at 60 (0x3c)
+Table 24 003c -> 003c
+no ENDCHAR at 62 (0x3e)
+Table 25 003e -> 003e
+no ENDCHAR at 64 (0x40)
+Table 26 0040 -> 0040
+no ENDCHAR at 66 (0x42)
+Table 27 0042 -> 0042
+no ENDCHAR at 68 (0x44)
+Table 28 0044 -> 0044
+no ENDCHAR at 70 (0x46)
+Table 29 0046 -> 0046
+no ENDCHAR at 72 (0x48)
+Table 30 0048 -> 0048
+no ENDCHAR at 74 (0x4a)
+Table 31 004a -> 004a
+no ENDCHAR at 76 (0x4c)
+Table 32 004c -> 004c
+no ENDCHAR at 78 (0x4e)
+Table 33 004e -> 004e
+no ENDCHAR at 80 (0x50)
+Table 34 0050 -> 0050
+no ENDCHAR at 82 (0x52)
+Table 35 0052 -> 0052
+no ENDCHAR at 84 (0x54)
+Table 36 0054 -> 0054
+no ENDCHAR at 86 (0x56)
+Table 37 0056 -> 0056
+no ENDCHAR at 88 (0x58)
+Table 38 0058 -> 0058
+no ENDCHAR at 90 (0x5a)
+Table 39 005a -> 005a
+no ENDCHAR at 92 (0x5c)
+Table 40 005c -> 005c
+no ENDCHAR at 94 (0x5e)
+Table 41 005e -> 005e
+no ENDCHAR at 96 (0x60)
+Table 42 0060 -> 0060
+no ENDCHAR at 98 (0x62)
+Table 43 0062 -> 0062
+no ENDCHAR at 100 (0x64)
+Table 44 0064 -> 0064
+no ENDCHAR at 102 (0x66)
+Table 45 0066 -> 0066
+no ENDCHAR at 104 (0x68)
+Table 46 0068 -> 0068
+106 (0x6a)
+no ENDCHAR at 107 (0x6b)
+Table 47 006a -> 006b
+no ENDCHAR at 109 (0x6d)
+Table 48 006d -> 006d
+no ENDCHAR at 111 (0x6f)
+Table 49 006f -> 006f
+no ENDCHAR at 113 (0x71)
+Table 50 0071 -> 0071
+no ENDCHAR at 115 (0x73)
+Table 51 0073 -> 0073
+no ENDCHAR at 117 (0x75)
+Table 52 0075 -> 0075
+no ENDCHAR at 119 (0x77)
+Table 53 0077 -> 0077
+no ENDCHAR at 121 (0x79)
+Table 54 0079 -> 0079
+no ENDCHAR at 123 (0x7b)
+Table 55 007b -> 007b
+no ENDCHAR at 125 (0x7d)
+Table 56 007d -> 007d
+no ENDCHAR at 127 (0x7f)
+Table 57 007f -> 007f
+no ENDCHAR at 161 (0xa1)
+Table 58 00a1 -> 00a1
+no ENDCHAR at 163 (0xa3)
+Table 59 00a3 -> 00a3
+167 (0xa7)
+Table 60 00a7 -> 00a7
+no ENDCHAR at 170 (0xaa)
+Table 61 00aa -> 00aa
+no ENDCHAR at 172 (0xac)
+Table 62 00ac -> 00ac
+no ENDCHAR at 177 (0xb1)
+Table 63 00b1 -> 00b1
+no ENDCHAR at 181 (0xb5)
+Table 64 00b5 -> 00b5
+no ENDCHAR at 183 (0xb7)
+Table 65 00b7 -> 00b7
+no ENDCHAR at 187 (0xbb)
+Table 66 00bb -> 00bb
+189 (0xbd)
+Table 67 00bd -> 00bd
+no ENDCHAR at 191 (0xbf)
+Table 68 00bf -> 00bf
+no ENDCHAR at 197 (0xc5)
+Table 69 00c5 -> 00c5
+199 (0xc7)
+Table 70 00c7 -> 00c7
+no ENDCHAR at 201 (0xc9)
+Table 71 00c9 -> 00c9
+no ENDCHAR at 214 (0xd6)
+Table 72 00d6 -> 00d6
+no ENDCHAR at 223 (0xdf)
+Table 73 00df -> 00df
+no ENDCHAR at 225 (0xe1)
+Table 74 00e1 -> 00e1
+no ENDCHAR at 228 (0xe4)
+Table 75 00e4 -> 00e4
+no ENDCHAR at 230 (0xe6)
+Table 76 00e6 -> 00e6
+no ENDCHAR at 232 (0xe8)
+Table 77 00e8 -> 00e8
+no ENDCHAR at 234 (0xea)
+Table 78 00ea -> 00ea
+no ENDCHAR at 236 (0xec)
+Table 79 00ec -> 00ec
+no ENDCHAR at 238 (0xee)
+Table 80 00ee -> 00ee
+no ENDCHAR at 241 (0xf1)
+Table 81 00f1 -> 00f1
+no ENDCHAR at 243 (0xf3)
+Table 82 00f3 -> 00f3
+no ENDCHAR at 246 (0xf6)
+Table 83 00f6 -> 00f6
+no ENDCHAR at 249 (0xf9)
+Table 84 00f9 -> 00f9
+no ENDCHAR at 251 (0xfb)
+Table 85 00fb -> 00fb
+no ENDCHAR at 255 (0xff)
+Table 86 00ff -> 00ff
+no ENDCHAR at 915 (0x393)
+Table 87 0393 -> 0393
+no ENDCHAR at 931 (0x3a3)
+Table 88 03a3 -> 03a3
+no ENDCHAR at 937 (0x3a9)
+Table 89 03a9 -> 03a9
+no ENDCHAR at 948 (0x3b4)
+Table 90 03b4 -> 03b4
+no ENDCHAR at 960 (0x3c0)
+Table 91 03c0 -> 03c0
+no ENDCHAR at 964 (0x3c4)
+Table 92 03c4 -> 03c4
+no ENDCHAR at 8226 (0x2022)
+Table 93 2022 -> 2022
+no ENDCHAR at 8319 (0x207f)
+Table 94 207f -> 207f
+no ENDCHAR at 8592 (0x2190)
+Table 95 2190 -> 2190
+no ENDCHAR at 8594 (0x2192)
+Table 96 2192 -> 2192
+no ENDCHAR at 8596 (0x2194)
+Table 97 2194 -> 2194
+8616 (0x21a8)
+Table 98 21a8 -> 21a8
+no ENDCHAR at 8729 (0x2219)
+Table 99 2219 -> 2219
+no ENDCHAR at 8734 (0x221e)
+Table 100 221e -> 221e
+no ENDCHAR at 8745 (0x2229)
+Table 101 2229 -> 2229
+no ENDCHAR at 8801 (0x2261)
+Table 102 2261 -> 2261
+no ENDCHAR at 8805 (0x2265)
+Table 103 2265 -> 2265
+no ENDCHAR at 8976 (0x2310)
+Table 104 2310 -> 2310
+8993 (0x2321)
+Table 105 2321 -> 2321
+no ENDCHAR at 9472 (0x2500)
+Table 106 2500 -> 2500
+no ENDCHAR at 9484 (0x250c)
+Table 107 250c -> 250c
+no ENDCHAR at 9492 (0x2514)
+Table 108 2514 -> 2514
+9500 (0x251c)
+Table 109 251c -> 251c
+9508 (0x2524)
+Table 110 2524 -> 2524
+no ENDCHAR at 9516 (0x252c)
+Table 111 252c -> 252c
+9532 (0x253c)
+Table 112 253c -> 253c
+no ENDCHAR at 9552 (0x2550)
+Table 113 2550 -> 2550
+no ENDCHAR at 9554 (0x2552)
+Table 114 2552 -> 2552
+no ENDCHAR at 9556 (0x2554)
+Table 115 2554 -> 2554
+no ENDCHAR at 9558 (0x2556)
+Table 116 2556 -> 2556
+no ENDCHAR at 9560 (0x2558)
+Table 117 2558 -> 2558
+no ENDCHAR at 9562 (0x255a)
+Table 118 255a -> 255a
+no ENDCHAR at 9564 (0x255c)
+Table 119 255c -> 255c
+9566 (0x255e)
+9567 (0x255f)
+9568 (0x2560)
+9569 (0x2561)
+9570 (0x2562)
+9571 (0x2563)
+no ENDCHAR at 9572 (0x2564)
+Table 120 255e -> 2564
+no ENDCHAR at 9574 (0x2566)
+Table 121 2566 -> 2566
+no ENDCHAR at 9576 (0x2568)
+Table 122 2568 -> 2568
+9578 (0x256a)
+9579 (0x256b)
+9580 (0x256c)
+Table 123 256a -> 256c
+no ENDCHAR at 9600 (0x2580)
+Table 124 2580 -> 2580
+9608 (0x2588)
+Table 125 2588 -> 2588
+9612 (0x258c)
+Table 126 258c -> 258c
+9616 (0x2590)
+9617 (0x2591)
+9618 (0x2592)
+9619 (0x2593)
+Table 127 2590 -> 2593
+no ENDCHAR at 9632 (0x25a0)
+Table 128 25a0 -> 25a0
+no ENDCHAR at 9650 (0x25b2)
+Table 129 25b2 -> 25b2
+no ENDCHAR at 9660 (0x25bc)
+Table 130 25bc -> 25bc
+no ENDCHAR at 9675 (0x25cb)
+Table 131 25cb -> 25cb
+9689 (0x25d9)
+Table 132 25d9 -> 25d9
+9786 (0x263a)
+9787 (0x263b)
+9788 (0x263c)
+Table 133 263a -> 263c
+9792 (0x2640)
+Table 134 2640 -> 2640
+9794 (0x2642)
+Table 135 2642 -> 2642
+9824 (0x2660)
+Table 136 2660 -> 2660
+9827 (0x2663)
+Table 137 2663 -> 2663
+no ENDCHAR at 9829 (0x2665)
+Table 138 2665 -> 2665
+9834 (0x266a)
+9835 (0x266b)
+44 chars, 140 tables

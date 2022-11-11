@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "typeinfo": "c",
+        "font8x8.h": "c",
+        "font8x8_basic.h": "c",
+        "types.h": "c",
+        "fontx2.h": "c",
+        "stdint.h": "c"
+    }
+}
