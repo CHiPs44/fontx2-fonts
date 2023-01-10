@@ -1,3 +1,7 @@
+| BIG FAT WARNING                           |
+| :---------------------------------------: |
+| This project is __NOT__ production ready! |
+
 # fontx2-fonts
 
 FONTX2 fonts to be used with HAGL
