@@ -28,4 +28,6 @@ gcc -Wall -I /usr/lib/gcc/x86_64-linux-gnu/11/include/ font8x8tofontx2.c -o font
 xxd -i -c16 font8x8.fnt font8x8.h
 ```
 
+Edit `font8x8.h` and remove `_fnt suffix`, rename `_len` to `_size`.
+
 Voilà!
