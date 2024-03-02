@@ -1,5 +1,7 @@
 BIOS_F08_htobin
-BIOS_F08_htofontx2
+BIOS_F??_htofontx2
 BIOS_F08_xxd.h
 BIOS_F08_xxd2.h
 IBM_VGA_8x8.bin
+IBM_VGA_8x14.bin
+IBM_VGA_8x16.bin
